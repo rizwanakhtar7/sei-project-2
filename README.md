@@ -111,6 +111,9 @@ Then we moved onto brushing up on styling, adding box shadows on the score secti
 - Solidifying React knowledge to add Links in Navbar, Component rendering along with React Hook implementation of useState and useState and consuming an external API.
 
 
+### Bugs
+No Bugs found during testing
+
 ### Features to Implement 
 - Making the website responsive for mobiles.
 - Adding more animations to provide a better user experience.
