@@ -36,7 +36,7 @@ Our Deployed version: https://our-project-work-ga.netlify.app/
 </p>
 
 ### Approach
-- Wireframes / Mockups As part of our sign off process, we had to talk through our wireframes and the different components in our application including the top trumps game section, home page to show every superhero and the details page for each superhero.
+- Wireframes / Mockups. As part of our sign off process, we had to talk through our wireframes and the different components in our application including the top trumps game section, home page to show every superhero and the details page for each superhero.
 
 Due to only having 2 days, Chris and I decided to jump into coding straight after our mockups were approved.
 
